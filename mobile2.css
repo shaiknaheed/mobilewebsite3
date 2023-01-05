@@ -1,0 +1,33 @@
+.bgimg2{
+	background-image: url('https://th.bing.com/th/id/R.5a9cae83c88675a011a763d56426b247?rik=NSQbeeNYUfodSQ&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fbHMVnPQ.jpg&ehk=3K%2fZ3ja66Sq4lD3kN8nAs6KOpYfQ5N3PwcB4%2bcjBpJY%3d&risl=&pid=ImgRaw&r=0');
+	background-size: cover;
+	height: 150vh;
+}
+.mobilehead{
+	color: white;
+	font-family: 'Roboto';
+	font-weight: bold;
+	font-size: px;
+	padding: 23px;
+}
+.layoutcard2{
+	background-color: white;
+	border-radius: 8px;
+	padding: 20px;
+	margin: 18px;
+}
+.brandsimg{
+	width: 120px;
+	height: 120px;
+}
+.brandshead{
+	color: #cc66ff;
+	font-family: 'Roboto';
+	font-weight: bold;
+	font-size: 30px;
+}
+.brandspara{
+	color: darkgrey;
+	font-family: 'Roboto';
+	font-size: 15px;
+}

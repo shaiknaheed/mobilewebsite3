@@ -1,0 +1,12 @@
+.bgimg {
+   background-image: url('https://img.freepik.com/free-vector/gradient-smartphone-isometric-technology-background_52683-6157.jpg?w=1060&t=st=1672298055~exp=1672298655~hmac=c2bce0cfec1b85dc1cf92e48124229a03a6f425b5f619cd4cbe707471ede8421');
+   background-size:cover;
+   height:100vh;
+}
+.layoutcard {
+   background-color: white;
+   height: 200px;
+   border-top-left-radius: 20px;
+   border-top-right-radius: 20px;
+   padding:20px;
+}

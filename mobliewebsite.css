@@ -1,0 +1,12 @@
+.bgimg{
+	background-image: url('https://as1.ftcdn.net/v2/jpg/01/92/32/18/1000_F_192321842_wkUuuYcLE9r6gPNvrE5BDlXvhXATgECT.jpg')
+  background-size: cover  
+  height:100vp; 
+  }
+.layoutcard{
+   	background-color:  white;
+   	height: 200px;
+   	border-top-left-radius: 20px;
+   	border-top-right-radius: 20px;
+   	padding: 20px;
+   }
